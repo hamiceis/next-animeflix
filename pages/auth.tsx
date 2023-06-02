@@ -71,7 +71,7 @@ const Auth = () => {
     <div className="relative h-full w-full bg-[url('/assets/anime-wallpaper.jpg')] bg-no-repeat bg-center bg-fixed bg-cover">
       <div className="bg-black w-full h-full lg:bg-opacity-50">
         <nav className="px-12 py-5">
-          <img src="/images/logo.png" className="h-12" alt="Logo" />
+          <img src="/assets/logo.png" className="h-12" alt="Logo" />
         </nav>
         <div className="flex justify-center">
           <div className="bg-orange-400 bg-opacity-70 px-16 py-16 self-center mt-2 lg:w-2/5 lg:max-w-md rounded-md w-full">
@@ -115,7 +115,7 @@ const Auth = () => {
               </div>
             </div>
             <p className="text-black mt-12 text-center">
-              {variant === 'login' ? 'First time using Animeflix?' : 'Already have an account?'}
+              {variant === 'login' ? 'First time using FullAnime?' : 'Already have an account?'}
               <span onClick={toggleVariant} className="text-white ml-1 hover:underline cursor-pointer">
                 {variant === 'login' ? 'Create an account' : 'Login'}
               </span>
