@@ -1,43 +1,39 @@
-# Building a Fullstack Animeflix Clone with React, NextJS, TailwindCSS & Prisma
+# Construindo um Clone Completo da interface da netflix com React, NextJS, TailwindCSS & Prisma
 
 ![image](https://user-images.githubusercontent.com/23248726/220005380-ede4fb14-0b8d-4582-a063-3cc4beeccfb7.png)
 
-This is a repository for a FullStack Animeflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
+Este é um repositório para um tutorial de Clone Completo da interface da netflix usando React, NextJS, TailwindCSS & Prisma.
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=mqUN4N2q4qY)
+[TUTORIAL EM VÍDEO](https://www.youtube.com/watch?v=mqUN4N2q4qY)
 
-Features:
+## Recursos:
 
-- Environment, Typescript, NextJS Setup
-- MongoDB & Prisma connect, Database creation
-- Authentication with NextAuth, Google & Github Login
-- Full responsiveness on all pages
-- Cookie based authentication
-- API and Controllers creation
-- Detail-oriented effects and animations using TailwindCSS
-- React SWR data fetching
-- Zustand state management
+- Configuração do ambiente, Typescript, NextJS
+- Conexão com MongoDB & Prisma, criação do banco de dados
+- Autenticação com NextAuth, login pelo Google & Github
+- Total responsividade em todas as páginas
+- Autenticação baseada em cookies
+- Criação de API e controladores
+- Efeitos e animações detalhados usando TailwindCSS
+- Busca de dados com React SWR
+- Gerenciamento de estado com Zustand
 
-### Prerequisites
+## Pré-requisitos
 
-**Node version 14.x**
+**Node versão 14.x**
 
-### Cloning the repository
+## Clonando o repositório
 
 ```shell
 git clone https://github.com/hamiceis/next-animeflix.git
-```
 
-### Install packages
+## Instalando pacotes
 
-```shell
-npm i
-```
+`npm install`
 
-### Setup .env file
+## Configurando o arquivo .env
 
-
-```js
+`
 DATABASE_URL=
 GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
@@ -45,18 +41,17 @@ GITHUB_ID=
 GITHUB_SECRET=
 NEXTAUTH_JWT_SECRET=
 NEXTAUTH_SECRET=
-```
 
-### Start the app
+`
 
-```shell
-npm run dev
-```
+## Iniciando o aplicativo 
 
-## Available commands
+
+`npm run dev`
+
 
 Running commands with npm `npm run [command]`
 
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+| commando         | descrição                             |
+| :--------------  | :------------------------------------- |
+| `dev`            | Inicia aplicação modo de desenvolvedor |
