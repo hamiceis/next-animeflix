@@ -1,8 +1,6 @@
 # Construindo um Clone Completo da interface da netflix com React, NextJS, TailwindCSS & Prisma
 
-<p align="center">
-  <img alt="License" src="[https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000](https://user-images.githubusercontent.com/23248726/220005380-ede4fb14-0b8d-4582-a063-3cc4beeccfb7.png](https://i.ibb.co/SndhCmC/Captura-de-tela-2023-06-02-110934.jpg)">
-</p>
+
 
 
 
