@@ -4,7 +4,7 @@
   <img src=".github/preview.jpg" width="100%">
 </p>
 
-<a href="https://next-full-anime.vercel.app/" target="_blank"<FullAnime</a>
+<a href="https://next-full-anime.vercel.app/" target="_blank">FullAnime</a>
 
 Este é um repositório para um tutorial de Clone Completo da interface da netflix usando React, NextJS, TailwindCSS & Prisma.
 
