@@ -1,8 +1,8 @@
 # Construindo um Clone Completo da interface da netflix com React, NextJS, TailwindCSS & Prisma
 
-
-
-
+<p align="center">
+  <img src=".github/preview.jpg" width="100%">
+</p>
 
 Este é um repositório para um tutorial de Clone Completo da interface da netflix usando React, NextJS, TailwindCSS & Prisma.
 
